@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fiches-exemples on EvalPro&#43;</title>
-    <link>http://example.org/categories/fiches-exemples/</link>
+    <link>/categories/fiches-exemples/</link>
     <description>Recent content in fiches-exemples on EvalPro&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
