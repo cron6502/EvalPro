@@ -1,0 +1,9 @@
+weight: 4
+title: "Une synthèse claire et explicite"
+description: >
+  <ul class="list-style-none">
+    <li>Sous la forme d'une unique fiche synthétique</li>
+    <li>Exposant les principales contraintes du projet, soulignant les points devant faire l'objet d'approfondissement, clarifiant des points de procédures et de délais</li> 
+  </ul>
+image: "img/carousel/template-evalpro-4.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on EvalPro&#43;</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on EvalPro&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 26 Jul 2023 13:47:08 +0200</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fiches-exemples</title>
+      <link>http://example.org/categories/fiches-exemples/</link>
+      <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
+      
+      <guid>http://example.org/categories/fiches-exemples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saint Esprit</title>
+      <link>http://example.org/categories/saint-esprit/</link>
+      <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
+      
+      <guid>http://example.org/categories/saint-esprit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le François</title>
+      <link>http://example.org/categories/le-fran%C3%A7ois/</link>
+      <pubDate>Mon, 24 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/categories/le-fran%C3%A7ois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gros Morne</title>
+      <link>http://example.org/categories/gros-morne/</link>
+      <pubDate>Sat, 22 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/categories/gros-morne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

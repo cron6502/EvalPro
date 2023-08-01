@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on EvalPro&#43;</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on EvalPro&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 26 Jul 2023 13:47:08 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiche</title>
+      <link>http://example.org/tags/fiche/</link>
+      <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/fiche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saint Esprit</title>
+      <link>http://example.org/tags/saint-esprit/</link>
+      <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/saint-esprit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sans projet</title>
+      <link>http://example.org/tags/sans-projet/</link>
+      <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/sans-projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avec projet</title>
+      <link>http://example.org/tags/avec-projet/</link>
+      <pubDate>Mon, 24 Jul 2023 16:37:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/avec-projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exemple</title>
+      <link>http://example.org/tags/exemple/</link>
+      <pubDate>Mon, 24 Jul 2023 16:37:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/exemple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le François</title>
+      <link>http://example.org/tags/le-fran%C3%A7ois/</link>
+      <pubDate>Mon, 24 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/le-fran%C3%A7ois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gros Morne</title>
+      <link>http://example.org/tags/gros-morne/</link>
+      <pubDate>Sat, 22 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/tags/gros-morne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

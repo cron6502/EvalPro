@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "stylelint",
+			"path": "themes/hugo-universal-theme",
+			"problemMatcher": [],
+			"label": "npm: stylelint - themes/hugo-universal-theme",
+			"detail": "stylelint \"**/*.css\"",
+			"group": "build"
+		},
+		{
+			"type": "markdownlint",
+			"problemMatcher": [
+				"$markdownlint"
+			],
+			"label": "markdownlint: Lint all Markdown files in the workspace with markdownlint",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

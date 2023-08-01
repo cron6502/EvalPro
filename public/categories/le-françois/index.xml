@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le François on EvalPro&#43;</title>
+    <link>http://example.org/categories/le-fran%C3%A7ois/</link>
+    <description>Recent content in Le François on EvalPro&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 24 Jul 2023 11:27:08 +0200</lastBuildDate><atom:link href="http://example.org/categories/le-fran%C3%A7ois/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiche Le François - Parcelle K.306 - Avec projet</title>
+      <link>http://example.org/blog/2023/07/24/fiche-c10-ap-k306/</link>
+      <pubDate>Mon, 24 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2023/07/24/fiche-c10-ap-k306/</guid>
+      <description>Demande du 23 juillet 2023 Intention : projet de construction de maison individuelle.
+&lt;!DOCTYPE html&gt; FS10-Demo-AP-K306_260723 </description>
+    </item>
+    
+  </channel>
+</rss>

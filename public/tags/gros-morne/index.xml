@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gros Morne on EvalPro&#43;</title>
+    <link>http://example.org/tags/gros-morne/</link>
+    <description>Recent content in Gros Morne on EvalPro&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 22 Jul 2023 11:27:08 +0200</lastBuildDate><atom:link href="http://example.org/tags/gros-morne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiche Gros Morne - Parcelle M.756 - Avec projet</title>
+      <link>http://example.org/blog/2023/07/22/fiche-c12-ap-m756/</link>
+      <pubDate>Sat, 22 Jul 2023 11:27:08 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2023/07/22/fiche-c12-ap-m756/</guid>
+      <description>Demande du 21 juillet 2023 Intention : projet immobilier comprenant création de logements et de services.
+&lt;!DOCTYPE html&gt; FS12-Demo-AP-M756_260723.pdf </description>
+    </item>
+    
+  </channel>
+</rss>
