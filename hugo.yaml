@@ -4,7 +4,7 @@ title: EvalPro+
 theme: hugo-universal-theme
 
 defaultContentLanguage: fr
-disqusShortname: devcows
+# disqusShortname: devcows
 summaryLength: 70
 paginate: 10
 pluralizelisttitles: false
