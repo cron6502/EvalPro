@@ -4,8 +4,6 @@ description = "Approche environnementale des projets"
 keywords = ["SIG","système d'information géographique","évaluation environnementale","données","étude d'impact","examen au cas par cas","cas par cas"]
 +++
 
-# Modalités de mise en oeuvre
-
 #### Le projet de création de service numérique envisagé ici sur la base d'un premier outil précurseur exploitable, se décline en deux axes distincts portant sur :
 
 - **La création d'une plateforme de traitement automatisable**, au titre de l'évaluation environnementale des projets, des dossiers présentés au guichet unique des services instructeurs des dossiers de demande d'autorisation de défrichement et de demande d'autorisation d'urbanisme *(non traité à ce stade)*,
