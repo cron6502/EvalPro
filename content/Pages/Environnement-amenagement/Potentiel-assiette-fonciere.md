@@ -16,7 +16,7 @@ En réponse, vous obtiendrez une fiche de synthèse d'une page similaire à l'un
 
 - **Un en-tête récapitulant l'objet de votre demande** et la localisation du terrain / de l'assiette foncière concerné(e),
 - **Un bloc de synthèse** *(EURF)* rappelant, le cas échéant, la nature des principales contraintes opposables au regard de l'Environnement (E), de l'Urbanisme (U), des Risques naturels (R) voire, d'aides financières et techniques (F) **accompagné d'une signalétique "feux tricolores" explicite**,
-- **Un bloc analytique construit sous la forme d'un damier de quatre cases** pouvant préciser la nature des procédures, financements et aides techniques pouvant vous concerner.
+- **Un bloc analytique construit sous la forme d'un damier de quatre cases** pouvant préciser la nature des contraintes, procédures, financements et aides techniques pouvant vous concerner.
 
 ## Exploiter la fiche de synthèse vous concernant
 
