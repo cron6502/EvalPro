@@ -10,7 +10,7 @@ Vous n'êtes pas un professionnel de l'aménagement ou de l'immobilier, des règ
 
 Vous pouvez obtenir les principales informations utiles à cette approche sur la base des données environnementales, réglementaires, techniques et financières disponibles à l'aide du formulaire disponible sous l'onglet "**VOTRE DEMANDE**".
 
-En réponse, vous obtiendrez une fiche de synthèse d'une page similaire à l'une de celles présentées dans l'onglet "**FICHES**" *(voir fiche Saint Esprit - Parcelles W.607 et W.668 - Sans projet)*.
+En réponse, vous obtiendrez une fiche de synthèse d'une page similaire à l'une de celles présentées dans l'onglet "**FICHES**" *(voir fiches identifiées "Sans projet")*.
 
 ### Cette fiche de synthèse se décompose en trois parties distinctes
 
