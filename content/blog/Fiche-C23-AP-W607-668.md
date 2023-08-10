@@ -8,7 +8,6 @@ facebook_author = "JMF"
 +++
 
 **Demande du 22 juillet 2023**
-<br>
 Intention : projet agricole sans construction.
 
 {{< googlePdfReader "1UDXHCe--Z6lq5Cj2Zndg91nRH7pi0YOR" "FS23-Demo-AP-W607-W668_260723.pdf" >}}

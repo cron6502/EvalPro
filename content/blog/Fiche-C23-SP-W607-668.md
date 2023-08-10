@@ -8,7 +8,6 @@ facebook_author = "JMF"
 +++
 
 **Demande du 25 juillet 2023**
-<br>
 Intention : Autre, non définie.
 
 {{< googlePdfReader "1vRp1zS1usGBbnxXQP7Zte9cILcKDmQqq" "FS23-Demo-SP-W607-W668_260723.pdf" >}}

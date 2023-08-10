@@ -8,7 +8,6 @@ facebook_author = "JMF"
 +++
 
 **Demande du 21 juillet 2023**
-<br>
 Intention : projet immobilier comprenant création de logements et de services.
 
 {{< googlePdfReader "1Czter1w0SFTYcbdigKvVS901F3TzkbJw" "FS12-Demo-AP-M756_260723.pdf" >}}

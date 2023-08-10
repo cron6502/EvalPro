@@ -8,7 +8,6 @@ facebook_author = "JMF"
 +++
 
 **Demande du 23 juillet 2023**
-<br>
 Intention : projet de construction de maison individuelle.
 
 {{< googlePdfReader "14f68KJUFTpsCpKRbnRb7NJ0EGAF1m5ND" "FS10-Demo-AP-K306_260723" >}}
