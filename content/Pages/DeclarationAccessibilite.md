@@ -1,4 +1,9 @@
-﻿
+﻿+++
+title = "Déclaration d'accessibilité"
+description = ""
+keywords = ["Accessibilité", "Conformité RGAA", "Conformité WCGA WAI"]
++++
+
 # **Déclaration d’accessibilité**
 Établie le 21 novembre 2023.
 

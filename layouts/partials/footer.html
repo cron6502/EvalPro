@@ -12,20 +12,7 @@
         </div>
         <!-- /.col-md-4 -->
         {{ end }}
-
-        {{ if isset .Site.Params "accessibilite" }}
-        <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "Déclaration d'accessibilité" }}</h4>
-
-            {{ .Site.Params.accessibilite | safeHTML }}
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
-
-
+        
         <div class="col-md-4 col-sm-6">
 
             {{ if isset .Site.Params "recent_posts" }}{{ if (default true .Site.Params.footer.recent_posts.enable) }}

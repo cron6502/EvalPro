@@ -41,6 +41,12 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "menu.home"
 
+ [[menu.main]]
+    name       = "Déclaration d'accessibilité"
+    url        = "/DeclarationAccessibilite/"
+    weight     = 3
+    parent     = "menu.home"
+
 [[menu.main]]
     name       = "Le projet"
     identifier = "menu.features"
@@ -321,10 +327,6 @@ pluralizelisttitles = false
 
 [params.footer.recent_posts]
     enable = false
-
-[params.footer.accessibilite]
-    enable = true
-    accessibiblite_url = "/pages/<Declaration-Accessibilite_211123>"
 
 [taxonomies]
   category = "categories"
