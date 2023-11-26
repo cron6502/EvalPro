@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on EvalPro&#43;</title>
-    <link>https://evalpro.vercel.app/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on EvalPro&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://evalpro.vercel.app/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accès aux données</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/acces-donnees/</link>
+      <link>/pages/approche-environnementale/acces-donnees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/acces-donnees/</guid>
+      <guid>/pages/approche-environnementale/acces-donnees/</guid>
       <description>Sources de données disponibles Les principales données exploitées sur ce mini prototype de service numérique sont publiques, libres de droit et accessibles depuis internet. Carte interactive des enjeux environnementaux Le géoportail de l&amp;rsquo;urbanisme - accès national Le géoportail de l&amp;rsquo;urbanisme - accès aux données de la Martinique Le plan de prévention des risques naturels Aides techniques et financières Un traitement manuel, réalisé &amp;ldquo;à la demande&amp;rdquo;, permet de constituer une fiche de synthèse récapîtulative des principales règles et contraintes applicables à un projet comme à une assiette foncière données.</description>
     </item>
     
     <item>
       <title>Contacts utiles</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/contacts-utiles/</link>
+      <link>/pages/environnement-amenagement/contacts-utiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/contacts-utiles/</guid>
+      <guid>/pages/environnement-amenagement/contacts-utiles/</guid>
       <description>Contacts utiles L&amp;rsquo;analyse produite en réponse à votre demande, volontairement synthétique et non-conclusive, présente un groupe de feux tricolores symbolisant les niveaux de contraintes / difficultés pouvant être rencontrées pour la bonne réalisation du projet présenté (lorsque celui-ci a été préalablement annoncé).
 Un ou plusieurs feu(x) rouge indique(nt) une ou plusieurs contrainte(s) forte(s) / majeure(s) / difficilement surmontable(s) Un ou plusieurs feu(x) orange indique(nt) une ou plusieurs contrainte(s), plutôt modérées / potentiellement surmontable(s) Un ou plusieurs feu(x) vert est/sont de nature à souligner la compatibilité du projet au regard de la / des thématique(s) abordée(s) Dans le cas ou la fiche analytique concernant votre projet comporte un ou plusieurs feux orange / rouge, il conviendra de vous rapprocher de l&amp;rsquo;un ou de plusieurs des services suivants en fonction des thématiques visées (E pour Environnement, U pour Urbanisme, R pour Risques naturels et F pour Financement et aides techniques disponibles).</description>
     </item>
     
     <item>
       <title>Contexte du projet</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/contexte/</link>
+      <link>/pages/approche-environnementale/contexte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/contexte/</guid>
+      <guid>/pages/approche-environnementale/contexte/</guid>
       <description>S’engager dans la réalisation d’un projet agricole ou immobilier implique d’être rapidement confronté à l’obtention préalable d’un certain nombre d’autorisations administratives (défrichement, mise en culture, autorisations d’urbanisme…) et de pouvoir anticiper et traiter les incidences environnementales de celui-ci. C&amp;rsquo;est à l&amp;rsquo;occasion du dépôt d&amp;rsquo;une première demande d&amp;rsquo;autorisation administrative que l’usager se trouve confronté à l’évaluation environnementale de son projet au travers de la présentation de celui-ci au titre de l’examen au “cas par cas”.</description>
     </item>
     
     <item>
       <title>Faisabilité des projets</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/faisabilite-projet/</link>
+      <link>/pages/environnement-amenagement/faisabilite-projet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/faisabilite-projet/</guid>
+      <guid>/pages/environnement-amenagement/faisabilite-projet/</guid>
       <description>Vous avez un projet d&amp;rsquo;aménagement / de construction / en lien avec une activité agricole ou non Vous n&amp;rsquo;êtes pas un professionnel de l&amp;rsquo;aménagement ou de l&amp;rsquo;immobilier, des règles applicables mais, souhaitez tout de même avoir un idée de la viabilité de ce projet avant de vous engager dans les démarches administratives nécessaires à l&amp;rsquo;obtention des autorisations préalables requises (autorisation de défrichement, visant une exploitation agricole / son extension, autorisation d&amp;rsquo;urbanisme&amp;hellip;).</description>
     </item>
     
     <item>
       <title>Intérêt de la démarche</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/interet-demarche/</link>
+      <link>/pages/approche-environnementale/interet-demarche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/interet-demarche/</guid>
+      <guid>/pages/approche-environnementale/interet-demarche/</guid>
       <description>L&amp;rsquo;évaluation environnementale, un outil d&amp;rsquo;aménagement durable des territoires L’évaluation environnementale des projets adossés à des procédures d’autorisations administratives permet de confronter ces derniers avec l&amp;rsquo;ensemble des contraintes techniques et réglementaires qui pourraient s&amp;rsquo;opposer à leur pleine et entière réalisation en plus de les confronter aux principaux enjeux environnementaux avec lesquels ils devraient composer. La prise en compte d&amp;rsquo;enjeux environnementaux particulièrement importants, lorsqu&amp;rsquo;ils sont avérés, requiert la mise en oeuvre d&amp;rsquo;une étude d&amp;rsquo;impact environnemental (EIE) devant définir les principales mesures à prendre, dans le cadre de la réalisation du projet visé, afin d&amp;rsquo;en atténuer fortement les impacts mais, elle n&amp;rsquo;en interdit pas pour autant la réalisation effective.</description>
     </item>
     
     <item>
       <title>Modalités de mise en oeuvre</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/modalites-mise-en-oeuvre/</link>
+      <link>/pages/approche-environnementale/modalites-mise-en-oeuvre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/modalites-mise-en-oeuvre/</guid>
+      <guid>/pages/approche-environnementale/modalites-mise-en-oeuvre/</guid>
       <description>Le projet de création de service numérique envisagé ici sur la base d&amp;rsquo;un premier outil précurseur exploitable, se décline en deux axes distincts portant sur : La création d&amp;rsquo;une plateforme de traitement automatisable, au titre de l&amp;rsquo;évaluation environnementale des projets, des dossiers présentés au guichet unique des services instructeurs des dossiers de demande d&amp;rsquo;autorisation de défrichement et de demande d&amp;rsquo;autorisation d&amp;rsquo;urbanisme (non traité à ce stade),
 La création d&amp;rsquo;une plateforme informative permettant, sur requête personnalisée, d&amp;rsquo;obtenir les informations nécessaires et utiles relatives aux possibilités de valorisation / d&amp;rsquo;aménagement d&amp;rsquo;une assiette foncière particulière et, le cas échéant, d&amp;rsquo;obtenir les informations nécessaires et utiles relatives à la faisabilité administrative, environnementale, technique et financière d&amp;rsquo;un projet donné.</description>
     </item>
     
     <item>
       <title>Potentiel d&#39;une assiette foncière</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/potentiel-assiette-fonciere/</link>
+      <link>/pages/environnement-amenagement/potentiel-assiette-fonciere/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/potentiel-assiette-fonciere/</guid>
+      <guid>/pages/environnement-amenagement/potentiel-assiette-fonciere/</guid>
       <description>Vous disposez d&amp;rsquo;un terrain / Vous souhaitez en acquérir un Vous n&amp;rsquo;êtes pas un professionnel de l&amp;rsquo;aménagement ou de l&amp;rsquo;immobilier, des règles applicables mais, souhaitez tout de même avoir un idée des possibilités de valorisation qui peuvent y être associées avant de vous engager dans cette acquisition foncière voire, dans la réalisation d&amp;rsquo;un projet particulier.
 Vous pouvez obtenir les principales informations utiles à cette approche sur la base des données environnementales, réglementaires, techniques et financières disponibles à l&amp;rsquo;aide du formulaire disponible sous l&amp;rsquo;onglet &amp;ldquo;VOTRE DEMANDE&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Procédures et délais</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/procedures-delais/</link>
+      <link>/pages/environnement-amenagement/procedures-delais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/procedures-delais/</guid>
+      <guid>/pages/environnement-amenagement/procedures-delais/</guid>
       <description>Selon sa nature et sa complexité, votre projet peut se trouver confronté à diverses procédures d&amp;rsquo;autorisations administratives requises préalablement à sa réalisation. Ces procédures peuvent être réglementairement indépendantes et soumises à des délais d&amp;rsquo;instruction distincts cumulables ou non.
 Ainsi et de manière non exhaustive Les demandes d&amp;rsquo;autorisation d&amp;rsquo;urbanisme peuvent être précédées d&amp;rsquo;une demande d&amp;rsquo;autorisation de défrichement et ne peuvent être délivrée en l&amp;rsquo;absence de son obtention lorsque celle-ci est effectivement requise,</description>
     </item>

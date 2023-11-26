@@ -1,4 +1,4 @@
-baseURL = 'https://evalpro.vercel.app/'
+pbaseURL = 'https://evalpro.vercel.app/'
 languageCode = 'fr'
 title = 'EvalPro+'
 theme = "hugo-universal-theme"
@@ -224,7 +224,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>DEAL Martinique / Service connaissance, prospective et développement du territoire / Unité évaluation environnementale, appui et conseil au territoire<br></br>Fabrique numérique : l’incubateur de services numériques du pôle ministériel MTECT</p><br><p>Site partiellement accessible</p>"
+    about_us = "<p>DEAL Martinique / Service connaissance, prospective et développement du territoire / Unité évaluation environnementale, appui et conseil au territoire<br></br>Fabrique numérique : l’incubateur de services numériques du pôle ministériel MTECT</p><br><p>Site partiellement accessible</p><p>Pour en savoir plus consultez notre déclaration de non-conformité depuis l'onglet du menu principal : Accueil > Déclaration d'accessibilité</p>"
     # <a href="../Declaration-Accessibilite_211123">"Déclaration d'accessibilité"</a>
     copyright = "Copyright (c) 2023, EvalPro+; tous droits réservés."
 

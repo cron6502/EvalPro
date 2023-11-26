@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on EvalPro&#43;</title>
-    <link>https://evalpro.vercel.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on EvalPro&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Aug 2023 18:44:08 +0200</lastBuildDate><atom:link href="https://evalpro.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 18:44:08 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fiches-exemples</title>
-      <link>https://evalpro.vercel.app/categories/fiches-exemples/</link>
+      <link>/categories/fiches-exemples/</link>
       <pubDate>Thu, 10 Aug 2023 18:44:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/categories/fiches-exemples/</guid>
+      <guid>/categories/fiches-exemples/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le Marin</title>
-      <link>https://evalpro.vercel.app/categories/le-marin/</link>
+      <link>/categories/le-marin/</link>
       <pubDate>Thu, 10 Aug 2023 18:44:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/categories/le-marin/</guid>
+      <guid>/categories/le-marin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saint Esprit</title>
-      <link>https://evalpro.vercel.app/categories/saint-esprit/</link>
+      <link>/categories/saint-esprit/</link>
       <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/categories/saint-esprit/</guid>
+      <guid>/categories/saint-esprit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Le François</title>
-      <link>https://evalpro.vercel.app/categories/le-fran%C3%A7ois/</link>
+      <link>/categories/le-fran%C3%A7ois/</link>
       <pubDate>Mon, 24 Jul 2023 11:27:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/categories/le-fran%C3%A7ois/</guid>
+      <guid>/categories/le-fran%C3%A7ois/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gros Morne</title>
-      <link>https://evalpro.vercel.app/categories/gros-morne/</link>
+      <link>/categories/gros-morne/</link>
       <pubDate>Sat, 22 Jul 2023 11:27:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/categories/gros-morne/</guid>
+      <guid>/categories/gros-morne/</guid>
       <description></description>
     </item>
     

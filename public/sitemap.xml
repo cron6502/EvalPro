@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evalpro.vercel.app/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/</loc>
+    <loc>/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/fiche/</loc>
+    <loc>/tags/fiche/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/blog/2023/08/10/fiche-c06-sp-k250/</loc>
+    <loc>/blog/2023/08/10/fiche-c06-sp-k250/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/fiches-exemples/</loc>
+    <loc>/categories/fiches-exemples/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/le-marin/</loc>
+    <loc>/tags/le-marin/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/le-marin/</loc>
+    <loc>/categories/le-marin/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/sans-projet/</loc>
+    <loc>/tags/sans-projet/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-08-10T18:44:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/blog/2023/07/26/fiche-c23-sp-w607-668/</loc>
+    <loc>/blog/2023/07/26/fiche-c23-sp-w607-668/</loc>
     <lastmod>2023-07-26T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/saint-esprit/</loc>
+    <loc>/tags/saint-esprit/</loc>
     <lastmod>2023-07-26T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/saint-esprit/</loc>
+    <loc>/categories/saint-esprit/</loc>
     <lastmod>2023-07-26T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/avec-projet/</loc>
+    <loc>/tags/avec-projet/</loc>
     <lastmod>2023-07-24T16:37:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/exemple/</loc>
+    <loc>/tags/exemple/</loc>
     <lastmod>2023-07-24T16:37:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/blog/2023/07/24/fiche-c23-ap-w607-668/</loc>
+    <loc>/blog/2023/07/24/fiche-c23-ap-w607-668/</loc>
     <lastmod>2023-07-24T16:37:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/blog/2023/07/24/fiche-c10-ap-k306/</loc>
+    <loc>/blog/2023/07/24/fiche-c10-ap-k306/</loc>
     <lastmod>2023-07-24T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/le-fran%C3%A7ois/</loc>
+    <loc>/tags/le-fran%C3%A7ois/</loc>
     <lastmod>2023-07-24T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/le-fran%C3%A7ois/</loc>
+    <loc>/categories/le-fran%C3%A7ois/</loc>
     <lastmod>2023-07-24T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/blog/2023/07/22/fiche-c12-ap-m756/</loc>
+    <loc>/blog/2023/07/22/fiche-c12-ap-m756/</loc>
     <lastmod>2023-07-22T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/tags/gros-morne/</loc>
+    <loc>/tags/gros-morne/</loc>
     <lastmod>2023-07-22T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/categories/gros-morne/</loc>
+    <loc>/categories/gros-morne/</loc>
     <lastmod>2023-07-22T11:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/approche-environnementale/acces-donnees/</loc>
+    <loc>/pages/approche-environnementale/acces-donnees/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/environnement-amenagement/contacts-utiles/</loc>
+    <loc>/pages/environnement-amenagement/contacts-utiles/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/approche-environnementale/contexte/</loc>
+    <loc>/pages/approche-environnementale/contexte/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/declarationaccessibilite/</loc>
+    <loc>/declarationaccessibilite/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/environnement-amenagement/faisabilite-projet/</loc>
+    <loc>/pages/environnement-amenagement/faisabilite-projet/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/faq/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/approche-environnementale/interet-demarche/</loc>
+    <loc>/pages/approche-environnementale/interet-demarche/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/approche-environnementale/modalites-mise-en-oeuvre/</loc>
+    <loc>/pages/approche-environnementale/modalites-mise-en-oeuvre/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/</loc>
+    <loc>/pages/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/environnement-amenagement/potentiel-assiette-fonciere/</loc>
+    <loc>/pages/environnement-amenagement/potentiel-assiette-fonciere/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/pages/environnement-amenagement/procedures-delais/</loc>
+    <loc>/pages/environnement-amenagement/procedures-delais/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/aboutus/</loc>
+    <loc>/aboutus/</loc>
   </url><url>
-    <loc>https://evalpro.vercel.app/requete/</loc>
+    <loc>/requete/</loc>
   </url>
 </urlset>

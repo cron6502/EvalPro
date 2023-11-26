@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EvalPro&#43;</title>
-    <link>https://evalpro.vercel.app/</link>
+    <link>/</link>
     <description>Recent content on EvalPro&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Aug 2023 18:44:08 +0200</lastBuildDate><atom:link href="https://evalpro.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 18:44:08 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiche Le Marin - Parcelle K.250 - Sans projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/08/10/fiche-c06-sp-k250/</link>
+      <link>/blog/2023/08/10/fiche-c06-sp-k250/</link>
       <pubDate>Thu, 10 Aug 2023 18:44:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/08/10/fiche-c06-sp-k250/</guid>
+      <guid>/blog/2023/08/10/fiche-c06-sp-k250/</guid>
       <description>Demande du 10 août 2023 Intention : Autre, non définie.
 &lt;!DOCTYPE html&gt; FS06-Demo-SP-K250_100823.pdf </description>
     </item>
     
     <item>
       <title>Fiche Saint Esprit - Parcelles W.607 et W.668 - Sans projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/26/fiche-c23-sp-w607-668/</link>
+      <link>/blog/2023/07/26/fiche-c23-sp-w607-668/</link>
       <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/26/fiche-c23-sp-w607-668/</guid>
+      <guid>/blog/2023/07/26/fiche-c23-sp-w607-668/</guid>
       <description>Demande du 25 juillet 2023 Intention : Autre, non définie.
 &lt;!DOCTYPE html&gt; FS23-Demo-SP-W607-W668_260723.pdf </description>
     </item>
     
     <item>
       <title>Fiche Saint Esprit - Parcelles W.607 et W.668 - Avec projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/24/fiche-c23-ap-w607-668/</link>
+      <link>/blog/2023/07/24/fiche-c23-ap-w607-668/</link>
       <pubDate>Mon, 24 Jul 2023 16:37:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/24/fiche-c23-ap-w607-668/</guid>
+      <guid>/blog/2023/07/24/fiche-c23-ap-w607-668/</guid>
       <description>Demande du 22 juillet 2023 Intention : projet agricole sans construction.
 &lt;!DOCTYPE html&gt; FS23-Demo-AP-W607-W668_260723.pdf </description>
     </item>
     
     <item>
       <title>Fiche Le François - Parcelle K.306 - Avec projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/24/fiche-c10-ap-k306/</link>
+      <link>/blog/2023/07/24/fiche-c10-ap-k306/</link>
       <pubDate>Mon, 24 Jul 2023 11:27:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/24/fiche-c10-ap-k306/</guid>
+      <guid>/blog/2023/07/24/fiche-c10-ap-k306/</guid>
       <description>Demande du 23 juillet 2023 Intention : projet de construction de maison individuelle.
 &lt;!DOCTYPE html&gt; FS10-Demo-AP-K306_260723 </description>
     </item>
     
     <item>
       <title>Fiche Gros Morne - Parcelle M.756 - Avec projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/22/fiche-c12-ap-m756/</link>
+      <link>/blog/2023/07/22/fiche-c12-ap-m756/</link>
       <pubDate>Sat, 22 Jul 2023 11:27:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/22/fiche-c12-ap-m756/</guid>
+      <guid>/blog/2023/07/22/fiche-c12-ap-m756/</guid>
       <description>Demande du 21 juillet 2023 Intention : projet immobilier comprenant création de logements et de services.
 &lt;!DOCTYPE html&gt; FS12-Demo-AP-M756_260723.pdf </description>
     </item>
     
     <item>
       <title>Accès aux données</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/acces-donnees/</link>
+      <link>/pages/approche-environnementale/acces-donnees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/acces-donnees/</guid>
+      <guid>/pages/approche-environnementale/acces-donnees/</guid>
       <description>Sources de données disponibles Les principales données exploitées sur ce mini prototype de service numérique sont publiques, libres de droit et accessibles depuis internet. Carte interactive des enjeux environnementaux Le géoportail de l&amp;rsquo;urbanisme - accès national Le géoportail de l&amp;rsquo;urbanisme - accès aux données de la Martinique Le plan de prévention des risques naturels Aides techniques et financières Un traitement manuel, réalisé &amp;ldquo;à la demande&amp;rdquo;, permet de constituer une fiche de synthèse récapîtulative des principales règles et contraintes applicables à un projet comme à une assiette foncière données.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://evalpro.vercel.app/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/contact/</guid>
+      <guid>/contact/</guid>
       <description>Nous sommes là pour vous Besoin d&amp;rsquo;aide ? D&amp;rsquo;informations complémentaires sur ce service ?
 Vous souhaitez contribuer à l&amp;rsquo;amélioration de celui-ci, nous soutenir dans ce projet ?
 C&amp;rsquo;est ici</description>
@@ -79,29 +79,29 @@ C&amp;rsquo;est ici</description>
     
     <item>
       <title>Contacts utiles</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/contacts-utiles/</link>
+      <link>/pages/environnement-amenagement/contacts-utiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/contacts-utiles/</guid>
+      <guid>/pages/environnement-amenagement/contacts-utiles/</guid>
       <description>Contacts utiles L&amp;rsquo;analyse produite en réponse à votre demande, volontairement synthétique et non-conclusive, présente un groupe de feux tricolores symbolisant les niveaux de contraintes / difficultés pouvant être rencontrées pour la bonne réalisation du projet présenté (lorsque celui-ci a été préalablement annoncé).
 Un ou plusieurs feu(x) rouge indique(nt) une ou plusieurs contrainte(s) forte(s) / majeure(s) / difficilement surmontable(s) Un ou plusieurs feu(x) orange indique(nt) une ou plusieurs contrainte(s), plutôt modérées / potentiellement surmontable(s) Un ou plusieurs feu(x) vert est/sont de nature à souligner la compatibilité du projet au regard de la / des thématique(s) abordée(s) Dans le cas ou la fiche analytique concernant votre projet comporte un ou plusieurs feux orange / rouge, il conviendra de vous rapprocher de l&amp;rsquo;un ou de plusieurs des services suivants en fonction des thématiques visées (E pour Environnement, U pour Urbanisme, R pour Risques naturels et F pour Financement et aides techniques disponibles).</description>
     </item>
     
     <item>
       <title>Contexte du projet</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/contexte/</link>
+      <link>/pages/approche-environnementale/contexte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/contexte/</guid>
+      <guid>/pages/approche-environnementale/contexte/</guid>
       <description>S’engager dans la réalisation d’un projet agricole ou immobilier implique d’être rapidement confronté à l’obtention préalable d’un certain nombre d’autorisations administratives (défrichement, mise en culture, autorisations d’urbanisme…) et de pouvoir anticiper et traiter les incidences environnementales de celui-ci. C&amp;rsquo;est à l&amp;rsquo;occasion du dépôt d&amp;rsquo;une première demande d&amp;rsquo;autorisation administrative que l’usager se trouve confronté à l’évaluation environnementale de son projet au travers de la présentation de celui-ci au titre de l’examen au “cas par cas”.</description>
     </item>
     
     <item>
       <title>Déclaration d&#39;accessibilité</title>
-      <link>https://evalpro.vercel.app/declarationaccessibilite/</link>
+      <link>/declarationaccessibilite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/declarationaccessibilite/</guid>
+      <guid>/declarationaccessibilite/</guid>
       <description>Déclaration d’accessibilité Établie le 21 novembre 2023.
 Ministère de la Transition écologique et de la Cohésion des territoires s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 Cette déclaration d’accessibilité s’applique à EvalPro+ (https://evalpro.vercel.app).
@@ -111,19 +111,19 @@ Résultats des tests L’audit de conformité réalisé par évaluation externe 
     
     <item>
       <title>Faisabilité des projets</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/faisabilite-projet/</link>
+      <link>/pages/environnement-amenagement/faisabilite-projet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/faisabilite-projet/</guid>
+      <guid>/pages/environnement-amenagement/faisabilite-projet/</guid>
       <description>Vous avez un projet d&amp;rsquo;aménagement / de construction / en lien avec une activité agricole ou non Vous n&amp;rsquo;êtes pas un professionnel de l&amp;rsquo;aménagement ou de l&amp;rsquo;immobilier, des règles applicables mais, souhaitez tout de même avoir un idée de la viabilité de ce projet avant de vous engager dans les démarches administratives nécessaires à l&amp;rsquo;obtention des autorisations préalables requises (autorisation de défrichement, visant une exploitation agricole / son extension, autorisation d&amp;rsquo;urbanisme&amp;hellip;).</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://evalpro.vercel.app/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/faq/</guid>
+      <guid>/faq/</guid>
       <description>Les réponses aux questions les plus fréquemment posée sur ce service numérique.
 1. PAGE EN ATTENTE DE VOS QUESTION Nous répondrons ici à vos très prochaines attentes en matière :
 De modalité d&amp;rsquo;utilisation, D&amp;rsquo;utilisation des informations transmises en réponse, De portée éventuelle de ces mêmes informations, De délai de réponse&amp;hellip; et plus encore. Si vous ne trouvez pas ici la réponse à la question que vous vous posez, vous pouvez nous l&amp;rsquo;adresser via le formulaire de contact intégré au menu principal de ce site internet.</description>
@@ -131,59 +131,59 @@ De modalité d&amp;rsquo;utilisation, D&amp;rsquo;utilisation des informations t
     
     <item>
       <title>Intérêt de la démarche</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/interet-demarche/</link>
+      <link>/pages/approche-environnementale/interet-demarche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/interet-demarche/</guid>
+      <guid>/pages/approche-environnementale/interet-demarche/</guid>
       <description>L&amp;rsquo;évaluation environnementale, un outil d&amp;rsquo;aménagement durable des territoires L’évaluation environnementale des projets adossés à des procédures d’autorisations administratives permet de confronter ces derniers avec l&amp;rsquo;ensemble des contraintes techniques et réglementaires qui pourraient s&amp;rsquo;opposer à leur pleine et entière réalisation en plus de les confronter aux principaux enjeux environnementaux avec lesquels ils devraient composer. La prise en compte d&amp;rsquo;enjeux environnementaux particulièrement importants, lorsqu&amp;rsquo;ils sont avérés, requiert la mise en oeuvre d&amp;rsquo;une étude d&amp;rsquo;impact environnemental (EIE) devant définir les principales mesures à prendre, dans le cadre de la réalisation du projet visé, afin d&amp;rsquo;en atténuer fortement les impacts mais, elle n&amp;rsquo;en interdit pas pour autant la réalisation effective.</description>
     </item>
     
     <item>
       <title>Modalités de mise en oeuvre</title>
-      <link>https://evalpro.vercel.app/pages/approche-environnementale/modalites-mise-en-oeuvre/</link>
+      <link>/pages/approche-environnementale/modalites-mise-en-oeuvre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/approche-environnementale/modalites-mise-en-oeuvre/</guid>
+      <guid>/pages/approche-environnementale/modalites-mise-en-oeuvre/</guid>
       <description>Le projet de création de service numérique envisagé ici sur la base d&amp;rsquo;un premier outil précurseur exploitable, se décline en deux axes distincts portant sur : La création d&amp;rsquo;une plateforme de traitement automatisable, au titre de l&amp;rsquo;évaluation environnementale des projets, des dossiers présentés au guichet unique des services instructeurs des dossiers de demande d&amp;rsquo;autorisation de défrichement et de demande d&amp;rsquo;autorisation d&amp;rsquo;urbanisme (non traité à ce stade),
 La création d&amp;rsquo;une plateforme informative permettant, sur requête personnalisée, d&amp;rsquo;obtenir les informations nécessaires et utiles relatives aux possibilités de valorisation / d&amp;rsquo;aménagement d&amp;rsquo;une assiette foncière particulière et, le cas échéant, d&amp;rsquo;obtenir les informations nécessaires et utiles relatives à la faisabilité administrative, environnementale, technique et financière d&amp;rsquo;un projet donné.</description>
     </item>
     
     <item>
       <title>Potentiel d&#39;une assiette foncière</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/potentiel-assiette-fonciere/</link>
+      <link>/pages/environnement-amenagement/potentiel-assiette-fonciere/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/potentiel-assiette-fonciere/</guid>
+      <guid>/pages/environnement-amenagement/potentiel-assiette-fonciere/</guid>
       <description>Vous disposez d&amp;rsquo;un terrain / Vous souhaitez en acquérir un Vous n&amp;rsquo;êtes pas un professionnel de l&amp;rsquo;aménagement ou de l&amp;rsquo;immobilier, des règles applicables mais, souhaitez tout de même avoir un idée des possibilités de valorisation qui peuvent y être associées avant de vous engager dans cette acquisition foncière voire, dans la réalisation d&amp;rsquo;un projet particulier.
 Vous pouvez obtenir les principales informations utiles à cette approche sur la base des données environnementales, réglementaires, techniques et financières disponibles à l&amp;rsquo;aide du formulaire disponible sous l&amp;rsquo;onglet &amp;ldquo;VOTRE DEMANDE&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Procédures et délais</title>
-      <link>https://evalpro.vercel.app/pages/environnement-amenagement/procedures-delais/</link>
+      <link>/pages/environnement-amenagement/procedures-delais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/pages/environnement-amenagement/procedures-delais/</guid>
+      <guid>/pages/environnement-amenagement/procedures-delais/</guid>
       <description>Selon sa nature et sa complexité, votre projet peut se trouver confronté à diverses procédures d&amp;rsquo;autorisations administratives requises préalablement à sa réalisation. Ces procédures peuvent être réglementairement indépendantes et soumises à des délais d&amp;rsquo;instruction distincts cumulables ou non.
 Ainsi et de manière non exhaustive Les demandes d&amp;rsquo;autorisation d&amp;rsquo;urbanisme peuvent être précédées d&amp;rsquo;une demande d&amp;rsquo;autorisation de défrichement et ne peuvent être délivrée en l&amp;rsquo;absence de son obtention lorsque celle-ci est effectivement requise,</description>
     </item>
     
     <item>
       <title>Qui sommes-nous ?</title>
-      <link>https://evalpro.vercel.app/aboutus/</link>
+      <link>/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/aboutus/</guid>
+      <guid>/aboutus/</guid>
       <description>Association d&amp;rsquo;un service &amp;ldquo;métier&amp;rdquo; et d&amp;rsquo;un incubateur de services numériques L&amp;rsquo;unité évaluation environnementale, appui et conseil aux territoires de la DEAL Martinique Assure l&amp;rsquo;instruction des dossiers présentés au titre de l&amp;rsquo;évaluation environnementale ainsi que l&amp;rsquo;accompagnement et l&amp;rsquo;assistance à l&amp;rsquo;émergence de projets auprès des particuliers comme des professionnels de l&amp;rsquo;aménagement du territoire.
 La Fabrique numérique du Ministère de la Transition Ecologique et de la Cohésion des Territoires (MTECT) Assure l&amp;rsquo;incubation des projets de services numériques portés par des intrapreneurs publics assistés par des professionnels du développement de produits informatiques.</description>
     </item>
     
     <item>
       <title>Votre demande</title>
-      <link>https://evalpro.vercel.app/requete/</link>
+      <link>/requete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evalpro.vercel.app/requete/</guid>
+      <guid>/requete/</guid>
       <description>Possibilité d&amp;rsquo;aménagement de mon terrain Vous n&amp;rsquo;êtes pas un professionnel de l&amp;rsquo;immobilier et des règles applicables mais, disposez d&amp;rsquo;un terrain, en envisagez l&amp;rsquo;acquisition et souhaitez tout de même avoir un idée des possibilités de valorisation qui peuvent y être associées sur la base des principales données environnementales, réglementaires, techniques et financières disponibles ?
 Utilisez le formulaire accessible ci-après (votre demande ici) en prenant soin d&amp;rsquo;indiquer obligatoirement et à minima :</description>
     </item>

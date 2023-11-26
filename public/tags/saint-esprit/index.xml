@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saint Esprit on EvalPro&#43;</title>
-    <link>https://evalpro.vercel.app/tags/saint-esprit/</link>
+    <link>/tags/saint-esprit/</link>
     <description>Recent content in Saint Esprit on EvalPro&#43;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 26 Jul 2023 13:47:08 +0200</lastBuildDate><atom:link href="https://evalpro.vercel.app/tags/saint-esprit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jul 2023 13:47:08 +0200</lastBuildDate><atom:link href="/tags/saint-esprit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiche Saint Esprit - Parcelles W.607 et W.668 - Sans projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/26/fiche-c23-sp-w607-668/</link>
+      <link>/blog/2023/07/26/fiche-c23-sp-w607-668/</link>
       <pubDate>Wed, 26 Jul 2023 13:47:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/26/fiche-c23-sp-w607-668/</guid>
+      <guid>/blog/2023/07/26/fiche-c23-sp-w607-668/</guid>
       <description>Demande du 25 juillet 2023 Intention : Autre, non définie.
 &lt;!DOCTYPE html&gt; FS23-Demo-SP-W607-W668_260723.pdf </description>
     </item>
     
     <item>
       <title>Fiche Saint Esprit - Parcelles W.607 et W.668 - Avec projet</title>
-      <link>https://evalpro.vercel.app/blog/2023/07/24/fiche-c23-ap-w607-668/</link>
+      <link>/blog/2023/07/24/fiche-c23-ap-w607-668/</link>
       <pubDate>Mon, 24 Jul 2023 16:37:08 +0200</pubDate>
       
-      <guid>https://evalpro.vercel.app/blog/2023/07/24/fiche-c23-ap-w607-668/</guid>
+      <guid>/blog/2023/07/24/fiche-c23-ap-w607-668/</guid>
       <description>Demande du 22 juillet 2023 Intention : projet agricole sans construction.
 &lt;!DOCTYPE html&gt; FS23-Demo-AP-W607-W668_260723.pdf </description>
     </item>
