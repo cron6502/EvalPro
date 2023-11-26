@@ -27,6 +27,11 @@ menu:
       weight: 2
       parent: menu.home
 
+    - name: Accessibilite
+      url: /DeclarationAccessibilite/
+      weight: 3
+      parent: menu.home
+   
     - name: Le projet
       identifier: menu.features
       url: /img/template-evalpro-homepage.png
