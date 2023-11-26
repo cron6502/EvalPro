@@ -218,7 +218,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>DEAL Martinique / Service connaissance, prospective et développement du territoire / Unité évaluation environnementale, appui et conseil au territoire<br></br>Fabrique numérique : l’incubateur de services numériques du pôle ministériel MTECT</p>"
+    about_us = "<p>DEAL Martinique / Service connaissance, prospective et développement du territoire / Unité évaluation environnementale, appui et conseil au territoire<br></br>Fabrique numérique : l’incubateur de services numériques du pôle ministériel MTECT</p><br><p>Site partiellement accessible</p>"
+    # <a href="../Declaration-Accessibilite_211123">"Déclaration d'accessibilité"</a>
     copyright = "Copyright (c) 2023, EvalPro+; tous droits réservés."
 
     # Format dates with Go's time formatting
@@ -320,6 +321,10 @@ pluralizelisttitles = false
 
 [params.footer.recent_posts]
     enable = false
+
+[params.footer.accessibilite]
+    enable = true
+    accessibiblite_url = "/pages/<Declaration-Accessibilite_211123>"
 
 [taxonomies]
   category = "categories"
