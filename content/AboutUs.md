@@ -16,7 +16,7 @@ Assure l'incubation des projets de services numériques portés par des intrapre
 
 #### Pour en savoir plus
 
-- **[Les services de la DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/)**
-- **[La Fabrique numérique du MTECT](https://www.ecologie.gouv.fr/fabrique-numerique)**
-- **[L'Evaluation Environnementale en DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/evaluation-environnementale-r27.html)**
-- **[L'Appui et le Conseil aux Territoires en DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/le-nouveau-conseil-au-territoire-a1268.html)**
+- **[Les services de la DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/ "Lien vers le site internet de la DEAL Martiinique")**
+- **[La Fabrique numérique du MTECT](https://www.ecologie.gouv.fr/fabrique-numerique "Lien vers le site de la Fabrique numérique")**
+- **[L'Evaluation Environnementale en DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/evaluation-environnementale-r27.html "Lien vers la page d'accueil Evaluation environnementale DEAL Martinique")**
+- **[L'Appui et le Conseil aux Territoires en DEAL Martinique](https://www.martinique.developpement-durable.gouv.fr/le-nouveau-conseil-au-territoire-a1268.html "Lien vers la page d'accueil Appui, conseil au territoire en DEAL Martinique")**

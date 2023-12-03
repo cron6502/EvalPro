@@ -14,7 +14,7 @@ Vous n'êtes pas un professionnel de l'immobilier et des règles applicables mai
 * la commune concernée en la sélectionnant directement dans la liste proposée,
 * la référence cadastrale du terrain concerné sous la forme d'un couple unique {lettre-s.numéro} tel que *(exemple)* : K.275.
 
->#### [Votre demande ici](https://aad90e5x35o.typeform.com/to/eYyywbOU)
+>#### [Votre demande ici](https://aad90e5x35o.typeform.com/to/eYyywbOU "Lien vers le formulaire de demande de renseignement")
 
 Le cas échéant, **si vous souhaitez obtenir une réponse portant sur une assiette foncière associant plusieurs parcelles cadastrales** :
 
@@ -32,7 +32,7 @@ Vous n'êtes toujours pas un professionnel de l'immobilier et des règles applic
 
 * la nature du projet vous concernant en la sélectionnant dans la liste des types de projets proposés,
 * le délai sous lequel vous souhaitez réaliser votre projet (donnée indicative).
->#### [Votre demande ici](https://aad90e5x35o.typeform.com/to/eYyywbOU)
+>#### [Votre demande ici](https://aad90e5x35o.typeform.com/to/eYyywbOU "Lien vers le formulaire de demande de renseignement")
 
 Pour des raisons pratiques, les projets types proposés - en nombre limité - correspondent à des profils d'opérations connues en Martinique tels qu'ils se trouvent exploités par des porteurs de projets "particuliers" ou relevant de micro-sociétés, sociétés unipersonnelles, notamment agricoles, voire, d'associations à but non lucratif non coutumiers des procédures administratives et réglementaires.
 

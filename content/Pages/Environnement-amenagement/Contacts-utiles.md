@@ -17,16 +17,16 @@ L'analyse produite en réponse à votre demande, volontairement synthétique et 
 
 En fonction des conclusions de l'analyse produite en réponse à votre demande, votre projet peut se retrouver dans l'une des configurations suivantes :
 
-- **Soumis à l'étude d'impact environnemental (EIE) obligatoire / par voie réglementaire** du fait qu'il réponde à l'un, au moins, des cas présentés en deuxième colonne du **[tableau annexe de l'article R.122-2 du code de l'environnement](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006108640/2021-12-12)**,
+- **Soumis à l'étude d'impact environnemental (EIE) obligatoire / par voie réglementaire** du fait qu'il réponde à l'un, au moins, des cas présentés en deuxième colonne du **[tableau annexe de l'article R.122-2 du code de l'environnement](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006108640/2021-12-12 "Lire le tableau annexe de l'article R.122-2")**,
 
-- **Soumis à la procédure de l'examen au cas par cas** du fait qu'il réponde à l'un, au moins, des cas présentés en troisième colonne du **[tableau annexe de l'article R.122-2 du code de l'environnement](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006108640/2021-12-12)**,
+- **Soumis à la procédure de l'examen au cas par cas** du fait qu'il réponde à l'un, au moins, des cas présentés en troisième colonne du **[tableau annexe de l'article R.122-2 du code de l'environnement](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006108640/2021-12-12 "Lire le tableau annexe de l'article R.122-2")**,
 
 - Le cas échéant, il peut être exposé à un ou plusieurs enjeux environnementaux nécessitant une attention particulière dans le cadre de sa réalisation effective.
 
 **Pour tout complément d'information, consultez :**
 
-- **[Les informations utiles en matière d'évaluation environnementale](https://www.martinique.developpement-durable.gouv.fr/sites-utiles-a1984.html)**
-- **[L'Autorité environnementale en Martinique](https://www.martinique.developpement-durable.gouv.fr/coordonnees-de-l-autorite-environnementale-a1983.html)**
+- **[Les informations utiles en matière d'évaluation environnementale](https://www.martinique.developpement-durable.gouv.fr/sites-utiles-a1984.html "Lien vers les sites d'information utiles")**
+- **[L'Autorité environnementale en Martinique](https://www.martinique.developpement-durable.gouv.fr/coordonnees-de-l-autorite-environnementale-a1983.html "Contacter l'Autorité environnementale")**
 
 ## En matière d'urbanisme
 

@@ -17,11 +17,11 @@ L'analyse produite en réponse à votre demande vous propose une première appro
 
 ## Procédures et délais d'instruction types
 
-**[Délais d'instruction des dossiers de demandes d'autorisations de défrichement](https://daaf.martinique.agriculture.gouv.fr/IMG/pdf/defrichement_plaqutte2013_cle05caad.pdf)** : **4 à 6 mois**,
+**[Délais d'instruction des dossiers de demandes d'autorisations de défrichement](https://daaf.martinique.agriculture.gouv.fr/IMG/pdf/defrichement_plaqutte2013_cle05caad.pdf "Lire la plaquette explicative de la DAAF Martinique")** : **4 à 6 mois**,
 
 **Délais d'instruction des dossiers de demandes d'autorisations d'exploiter / activité agricole** : **4 à 6 mois**,
 
-**[Délais d'instruction des dossiers de demande d'autorisation d'urbanisme](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158835/)**
+**[Délais d'instruction des dossiers de demande d'autorisation d'urbanisme](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006158835/ "Lire les articles R.423-17 à R.423-37-3 du code de l'urbanisme")**
 
 - **Permis d'aménager** *(préalable à création de lotissement)* : **3 à 4 mois**,
 - **Permis de construire une maison individuelle** : **2 à 3 mois**,
