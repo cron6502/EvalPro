@@ -255,7 +255,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contactez-nous par tél.: +596 596 59 59 43 ou <br>par mail: scpdt-uee.deal972@developpement-durable.gouv.fr</p>
+    text = """<p>Contactez-nous par tél.: +596 596 59 59 43 ou <br>par mail: scpdt-uee.deal972@developpement-durable.gouv.fr</p>
 
       """
 
