@@ -111,22 +111,22 @@ menu:
       url: /contact/
       weight: 6
 
-  topbar:
+#  topbar:
 
-    - weight: 1
-      name: Phone
-      url: 'tel:+596 596 59 59 43'
-      pre: <i class='fas fa-2x fa-phone'></i>
+#   - weight: 1
+#      name: Phone
+#      url: 'tel:+596 596 59 59 43'
+#      pre: <i class='fas fa-2x fa-phone'></i>
 
-    - weight: 2
-      name: GitHub
-      url: 'https://github.com/cron6502/evalpro'
-      pre: <i class='fab fa-2x fa-github'></i>
+#    - weight: 2
+#      name: GitHub
+#      url: 'https://github.com/cron6502/evalpro'
+#      pre: <i class='fab fa-2x fa-github'></i>
 
-    - weight: 3
-      name: Email
-      url: 'mailto:scpdt-uee.deal972@developpement-durable.gouv.fr'
-      pre: <i class='fas fa-2x fa-envelope'></i>
+#    - weight: 3
+#      name: Email
+#      url: 'mailto:scpdt-uee.deal972@developpement-durable.gouv.fr'
+#      pre: <i class='fas fa-2x fa-envelope'></i>
 
 params:
 
@@ -198,9 +198,9 @@ params:
     text: >-
       <p class="hidden-sm hidden-xs">Contactez-nous par tél.: +596 596 59 59 43
       ou<br>par mail: scpdt-uee.deal972@developpement-durable.gouv.fr</p>
-            <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-            <a href="mailto:scpdt-uee.deal972@developpement-durable.gouv.fr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-            </p>
+#            <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+#           <a href="mailto:scpdt-uee.deal972@developpement-durable.gouv.fr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+#           </p>
             
   widgets:
     categories: true
