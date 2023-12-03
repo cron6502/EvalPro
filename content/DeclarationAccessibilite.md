@@ -6,6 +6,7 @@ keywords = ["Accessibilité", "Conformité RGAA", "Conformité WCGA WAI"]
 
 # **Déclaration d’accessibilité**
 Établie le 21 novembre 2023.
+Mise à jour le 3 décembre 2023.
 
 Ministère de la Transition écologique et de la Cohésion des territoires s’engage à rendre son service accessible, conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 
@@ -13,16 +14,21 @@ Cette déclaration d’accessibilité s’applique à **EvalPro+** (https://eval
 ## **État de conformité**
 **EvalPro+** est **partiellement conforme** avec le RGAA. 
 ## **Résultats des tests**
-L’audit de conformité réalisé par évaluation externe révèle que 78% des critères sont respectés
-*(source : www.ionos.fr)*.
+Un premier audit de performance globale réalisé sur le site: www.ionos.fr, en date du 21 novembre 2023, donne un résultat de 78% des critères respectés.
+Le dernier audit de performance en termes d'accessibilité réalisé avec l'utilitaire Lighthouse de Google, en date du 3 décembre 2023, permet au site EvalPro+ de répondre à 86 % des critères d'accessibilité.
+Entre ces deux audits, des corrections ont déjà été apportées et des tests conduits sur des liseuses adatées (retranscrition texte multilingue et audio).
 ## **Contenus non accessibles**
-Les contenus listés ci-dessous ne sont pas complètement accessibles pour les raisons suivantes.
+Malgré les efforts déployés jusqu'ici, les éléments de contenus listés ci-dessous ne sont pas complètement accessibles pour les raisons suivantes :
 ### **Non conformité**
-Malgré nos efforts, certains contenus peuvent s'avérer inaccessibles. Vous trouverez ci-dessous une liste des limitations connues et des solutions potentielles :
+Les contenus produits sont principalement réalisés en format texte, toutefois, quelques limitations persistent, font l'objet de corrections mais, peuvent encore géner le confort de votre navigation :
 
-1. **Affichage de certains contrastes de couleurs, visibilité / lisibilité des images et de certains liens interactifs**: Les images peuvent ne pas disposer de texte alternatif, les liens interactifs introduits sur le site ne sont pas toujours explicites. Ces éléments sont intégrés à une préversion / maquette opérationnelle d'un produit définitif / d'un produit minimum viable réalisé à des fins d'évaluation et de développement. Nous monitorons les commentaires remontés par le biais du formulaire de contact intégré et essayons de corriger les problèmes signalés dans la mesure de nos compétences. Merci d'utiliser le formulaire de contact tenu à votre disposition sur ce site afin de nous signaler le / les problème-s que vous pourriez rencontrer.
+1. **Affichage de certains contrastes de couleurs, visibilité / lisibilité des images et de certains liens interactifs**: 
+Notre attention se concentre désormais sur la correction des niveaux de contrastes (29 problèmes identifiés) et les adaptations nécessaires des feuilles de styles correspondantes, celles-ci procédant d'un thème déjà préconfiguré dont nous ne maîtrisons pas toutes les subtilités.
+Quelques images peuvent encore ne pas disposer de texte alternatif (3 cas identifiés sur des icones désactivées), les liens interactifs introduits sur le site peuvent de pas être explicites, notamment, sur les pages affichant un menu complémentaire de navigation et de recherche en partie droite de l'écran, les autres pages ayant déjà été traitées sur ce point.
+Pour mémoire: Le site que vous consultez ici est un produit expérimental servant de préversion / maquette opérationnelle d'un produit définitif / d'un produit minimum viable réalisé à des fins d'évaluation et de développement.
+Nous monitorons les commentaires remontés par le biais du formulaire de contact intégré et essayons de corriger les problèmes signalés dans la mesure de nos compétences. Merci d'utiliser le formulaire de contact tenu à votre disposition sur ce site afin de nous signaler le / les problème-s que vous pourriez rencontrer.
 ## **Établissement de cette déclaration d’accessibilité**
-Cette déclaration a été établie le 21 novembre 2023.
+Cette déclaration a été établie le 21 novembre 2023 et actualisée le 3 décembre 2023.
 ### **Technologies utilisées**
 L’accessibilité de EvalPro+ s’appuie sur les technologies suivantes :
 
